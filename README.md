@@ -15,9 +15,9 @@ use("itsnoellahere/qotd.nvim")
 ## Usage
 
 ```lua
-require("qotd.nvim").getQoute() -- returns a random quote
+require("qotd").getQoute() -- returns a random quote
 
-require("qotd.nvim").getQuotes() -- returns the full list of quotes
+require("qotd").getQuotes() -- returns the full list of quotes
 ```
 
 ## License
